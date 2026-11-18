@@ -1,0 +1,49 @@
+Commander
+1 Kilo, Apogee Mind
+
+Main
+1 An Offer You Can't Refuse
+1 Blasphemous Act
+1 Burnished Hart
+1 Commander's Sphere
+1 Cyclonic Rift
+1 Etherium Sculptor
+1 Fireshrieker
+1 Forensic Gadgeteer
+1 Generous Gift
+1 Jhoira, Weatherlight Captain
+1 K-9, Mark I
+1 Kappa Cannoneer
+1 Loran of the Third Path
+1 Losheel, Clockwork Scholar
+1 Loyal Apprentice
+1 Master Transmuter
+1 Padeem, Consul of Innovation
+1 Patrolling Peacemaker
+1 Pinnacle Emissary
+1 Prying Blade
+1 Reckless Endeavor
+1 Reckless Fireweaver
+1 Securitron Squadron
+1 Sentry Bot
+1 Solemn Simulacrum
+1 Spectrum Sentinel
+1 Sram, Senior Edificer
+1 Sword of the Animist
+1 Tezzeret, Cruel Captain
+1 The Vision
+1 Umezawa's Jitte
+1 Virulent Silencer
+1 Wayfarer's Bauble
+1 Whirler Rogue
+1 Windfall
+1 Zookeeper Mechan
+
+Lands
+1 Command Tower
+1 Steam Vents
+1 Sunbillow Verge
+1 Mystic Sanctuary
+7 Island
+3 Mountain
+4 Plains

@@ -1,0 +1,20 @@
+[project]
+name = "manaforge"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = ["reportlab", "Pillow", "PyYAML"]
+
+[project.optional-dependencies]
+dev = ["pytest"]
+
+[project.scripts]
+manaforge = "manaforge.cli:main"
+
+[tool.setuptools]
+packages = ["manaforge"]
+
+[tool.setuptools.package-data]
+manaforge = ["CUTOFFS.json"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

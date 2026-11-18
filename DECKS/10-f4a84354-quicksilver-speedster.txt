@@ -1,0 +1,47 @@
+Commander
+1 Quicksilver, Speedster
+
+Main
+1 Abrade
+1 Aetherflux Reservoir
+1 April O'Neil, Live on the Scene
+1 Artist's Talent
+1 Benthic Biomancer
+1 Blasphemous Act
+1 Burnished Hart
+1 Careful Study
+1 Consider
+1 Faithless Looting
+1 Idol of Oblivion
+1 Iron Man, Bleeding Edge
+1 March of Swirling Mist
+1 Mindless Automaton
+1 Namor the Sub-Mariner
+1 Negate
+1 Nevinyrral's Disk
+1 Nezahal, Primal Tide
+1 Outpost Siege
+1 Ponder
+1 Pongify
+1 Raphael, Tag Team Tough
+1 Raphael, the Nightwatcher
+1 Reality Shift
+1 Rhystic Study
+1 Seer's Sundial
+1 Shock
+1 Shuri, Wakandan Inventor
+1 Skullclamp
+1 Solemn Simulacrum
+1 Spider-Punk
+1 Sword of the Animist
+1 The Locust God
+1 There and Back Again
+1 Thoughtcast
+1 Wayfarer's Bauble
+
+Lands
+1 City of Brass
+1 Bonders' Enclave
+1 Volcanic Island
+8 Island
+7 Mountain

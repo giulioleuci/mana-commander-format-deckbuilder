@@ -1,0 +1,48 @@
+Commander
+1 Gorma, the Gullet
+
+Main
+1 Arcbound Condor
+1 Astarion's Thirst
+1 Bastion of Remembrance
+1 Beast Whisperer
+1 Biotransference
+1 Blight Mound
+1 Bloodflow Connoisseur
+1 Bristly Bill, Spine Sower
+1 Champion of Lambholt
+1 Cultivate
+1 Elixir of Immortality
+1 Farseek
+1 Forsaken Monument
+1 Gemrazer
+1 Ghoulish Procession
+1 Midnight Banshee
+1 Mind Stone
+1 Moseo, Vein's New Dean
+1 Nature's Lore
+1 Orcish Bowmasters
+1 Phoenix Fleet Airship
+1 Puppeteer Clique
+1 Rampant Growth
+1 Return of the Wildspeaker
+1 Ride the Shoopuf
+1 Sedgemoor Witch
+1 Shadowspear
+1 Surge Conductor
+1 Survey Mechan
+1 Tamiyo's Safekeeping
+1 The Great Henge
+1 The Ooze
+1 Tireless Provisioner
+1 Tromell, Seymour's Butler
+1 Ugin, the Spirit Dragon
+1 Zuran Orb
+
+Lands
+1 Urza's Tower
+1 Cavern of Souls
+1 Evolving Wilds
+1 Rogue's Passage
+8 Forest
+6 Swamp

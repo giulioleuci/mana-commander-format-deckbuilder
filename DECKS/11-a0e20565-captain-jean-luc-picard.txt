@@ -1,0 +1,46 @@
+Commander
+1 Captain Jean-Luc Picard
+
+Main
+1 Aerith Gainsborough
+1 Bronze Guardian
+1 Canoptek Scarab Swarm
+1 Chief of the Foundry
+1 Emeria Angel
+1 Esper Sentinel
+1 Felidar Retreat
+1 For the Emperor!
+1 Fumigate
+1 Generous Gift
+1 Jacked Rabbit
+1 Kinbinding
+1 Knight of the White Orchid
+1 Loran of the Third Path
+1 Myrel, Shield of Argive
+1 Nettlecyst
+1 Nuka-Cola Vending Machine
+1 Oketra's Monument
+1 Ornithopter of Paradise
+1 Path to Exile
+1 Prying Blade
+1 Ranger-Captain of Eos
+1 Skullclamp
+1 Solemn Simulacrum
+1 Spectacular Spider-Man
+1 Starfield Mystic
+1 Stroke of Midnight
+1 Swiftfoot Boots
+1 The One Ring
+1 The Queen of Dale
+1 Thornbite Staff
+1 Ulamog's Dreadsire
+1 Virulent Silencer
+1 Voice of Victory
+1 Wayfarer's Bauble
+1 White Sun's Twilight
+
+Lands
+1 Bonders' Enclave
+1 Gemstone Caverns
+1 Ancient Tomb
+15 Plains

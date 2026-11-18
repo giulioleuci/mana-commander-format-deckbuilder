@@ -1,0 +1,47 @@
+Commander
+1 Ghoulcaller Gisa
+
+Main
+1 Skullclamp
+1 Solemn Simulacrum
+1 Sensei's Divining Top
+1 Nasty End
+1 Deadly Rollick
+1 Sword of Fire and Ice
+1 Go for the Throat
+1 Orcish Bowmasters
+1 Wayfarer's Bauble
+1 Sword of the Animist
+1 Burnished Hart
+1 Sword of Hearth and Home
+1 Hammer of Nazahn
+1 Swiftfoot Boots
+1 Phyrexian Altar
+1 Viscera Seer
+1 Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
+1 Archon of Cruelty
+1 Torment of Hailfire
+1 Sacrifice
+1 Village Rites
+1 Victimize
+1 Deadly Dispute
+1 Plaguecrafter
+1 Mirkwood Bats
+1 Bitterbloom Bearer
+1 Bloodforged Battle-Axe
+1 Warren Soultrader
+1 Revenge of the Rats
+1 Glaring Fleshraker
+1 Dreadhorde Invasion
+1 Bastion of Remembrance
+1 Fake Your Own Death
+1 Not Dead After All
+1 Academy Manufactor
+1 Liliana, Death's Majesty
+
+Lands
+1 Mirrex
+1 Inventors' Fair
+1 Mana Confluence
+1 Access Tunnel
+14 Swamp

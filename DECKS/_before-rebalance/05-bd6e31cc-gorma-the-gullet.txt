@@ -1,0 +1,48 @@
+Commander
+1 Gorma, the Gullet
+
+Main
+1 Phyrexian Arena
+1 Return of the Wildspeaker
+1 Mind Stone
+1 Beast Whisperer
+1 Orcish Bowmasters
+1 Damnation
+1 Gemrazer
+1 Putrefy
+1 Rampant Growth
+1 Farseek
+1 Nature's Lore
+1 Cultivate
+1 Heroic Intervention
+1 Kozilek, the Great Distortion
+1 The Meathook Massacre
+1 Tireless Provisioner
+1 Shamanic Revelation
+1 Forsaken Monument
+1 Sanctum Lurker
+1 Ayara, First of Locthwain
+1 Zuran Orb
+1 Tamiyo's Safekeeping
+1 Bastion of Remembrance
+1 Elixir of Immortality
+1 Shadowspear
+1 Astarion's Thirst
+1 Sothera, the Supervoid
+1 Branching Evolution
+1 The Great Henge
+1 Tromell, Seymour's Butler
+1 Puppeteer Clique
+1 Vigor
+1 Incubation Druid
+1 Champion of Lambholt
+1 Midnight Banshee
+1 Bristly Bill, Spine Sower
+
+Lands
+1 Urza's Tower
+1 Cavern of Souls
+1 Evolving Wilds
+1 Rogue's Passage
+8 Forest
+6 Swamp

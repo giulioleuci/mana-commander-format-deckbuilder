@@ -1,0 +1,72 @@
+# ManaForge format config: the ONE place for the numbers. Read by the validator, the generator and the rules sheet.
+# Version tracks rules/regolamento.md (git tag v0.1, v0.2, ...).
+version: "0.1"
+
+commander:
+  legendary_creature: true
+  planeswalker: true               # PDF wording: "a legendary creature or a planeswalker". false = only with the text below
+  text: "can be your commander"    # oracle text that also qualifies a card
+
+main_deck:
+  min: 30
+  max: 40                          # commander excluded
+  lands: false
+  singleton: true
+  allow_mdfc_lands: false  # MDFC with a land face: false = treated as a land (illegal in the main deck)
+
+land_deck:
+  min: 15
+  max: 20
+  nonbasic_singleton: true
+  nonbasic_cap_divisor: 4          # cap = ceil(land deck size / 4)  
+
+banned:
+  commander_list: true             # every card whose Scryfall legalities.commander != legal
+  names:                           # final list, section 2
+    - Sol Ring
+    - Mana Crypt
+    - Mana Vault
+    - Grim Monolith
+    - Hermit Druid
+    - "Animist's Awakening"
+    - Exploration
+    - Oracle of Mul Daya
+    - Crucible of Worlds
+  keywords: [Cascade, Discover]    # reveal/exile-until-hit
+  patterns:                        # regexes on lowercase oracle text
+    - "(reveal|exile) cards? from the top of (your|their|target player's|its owner's|each player's) library until"
+    - "additional lands?"
+    - "play lands from"
+    - "play (a land|lands) [^.]*from (your graveyard|exile|the top)"
+  fast_mana_candidate:             # NOT banned automatically (only the named cards are banned); only flagged
+    max_cmc: 2
+    min_output: 2
+
+start:
+  life: 30
+  hand: 5
+  free_mulligans: 1
+  london_after_free: true
+  starter_skips_first_draw: true
+
+commander_ability:                 # section 5: tap -> top land of the land deck onto the battlefield
+  land_enters: untapped  # untapped | tapped
+  look_at_top: 1  # 1 | 2 (look at the top 2, choose one; the rest stay on top)
+  once_per_turn: true
+  ignore_summoning_sickness: true
+
+generator:
+  main_size: 36
+  land_deck_size: 18
+  dead_patterns:                        # cards that do nothing here: lands never sit in hand or in the main deck
+    - "land cards?\\b[^.]*from your hand"
+    - "draws? a land"
+    - "land cards?\\b[^.]*(you|they|each player) draws?"
+    - "if (it's|that card is|you drew) a land"
+  dead_to_hand_patterns:                # land goes to hand: dead, unless the same card also ramps onto the battlefield (Cultivate)
+    - "land cards?\\b[^.]*(into|to) your hand"
+  dead_to_hand_unless: "onto the battlefield"
+  unfun_patterns:                       # legal, but the forge never picks them (casual 1v1: no lock-outs)
+    - "destroy (all|target|two target|three target) lands?|each player sacrifices [^.]*lands?|sacrifices? the rest"   # (Cataclysm, Liliana -9): lands arrive one per turn, LD is brutal
+    - "extra turn"
+    - "(players|opponents|your opponents) can't cast|(lands|permanents|artifacts, creatures, and lands) (don't|do not) untap"

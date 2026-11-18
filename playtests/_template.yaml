@@ -1,0 +1,14 @@
+# Copy to playtests/<date>-<n>.yaml, one file per game. Files starting with "_" are ignored.
+# Deck IDs are the "Deck ID" on each cover page (or the ID printed by `manaforge forge`).
+id: 2026-11-20-1
+date: 2026-11-20
+format_version: "0.1"        # rules/regolamento.md tag the game was played under
+variant:                      # the rule flags in force: these define the groups in `manaforge playtests`
+  life: 30
+  land_enters: untapped
+  look_at_top: 1
+decks: [aaaa1111, bbbb2222]
+first_player: aaaa1111
+winner: aaaa1111              # a deck ID, or "draw"
+turns: 8
+notes: ""                     # e.g. turn the commander died, land-deck size, any rules question that came up

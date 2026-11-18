@@ -1,0 +1,47 @@
+Commander
+1 Quicksilver, Speedster
+
+Main
+1 Consider
+1 Rhystic Study
+1 Idol of Oblivion
+1 Faithless Looting
+1 Blasphemous Act
+1 Reality Shift
+1 Pongify
+1 Nevinyrral's Disk
+1 Solemn Simulacrum
+1 Sword of the Animist
+1 Wayfarer's Bauble
+1 Burnished Hart
+1 The One Ring
+1 Wash Away
+1 Irma, Part-Time Mutant
+1 Incurable Ogre
+1 April O'Neil, Live on the Scene
+1 Raphael, the Muscle
+1 Donatello, Rad Scientist
+1 Raphael, Tough Turtle
+1 Scarlet Witch, Chaotic Avenger
+1 Benthic Biomancer
+1 Goblin Psychopath
+1 Namor the Sub-Mariner
+1 Vexing Radgull
+1 Vigean Graftmage
+1 Mirelurk Queen
+1 Raphael, Tag Team Tough
+1 Raphael, the Nightwatcher
+1 Donatello, Gadget Master
+1 Baxter, Fly in the Ointment
+1 Donatello, Way with Machines
+1 Hand That Feeds
+1 Tokka & Rahzar, Unsupervised
+1 Donnie & April, Adorkable Duo
+1 Raphael, Ninja Destroyer
+
+Lands
+1 City of Brass
+1 Bonders' Enclave
+1 Volcanic Island
+8 Island
+7 Mountain

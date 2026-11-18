@@ -1,0 +1,47 @@
+Commander
+1 Muddle, the Ever-Changing
+
+Main
+1 Alhammarret's Archive
+1 The Watcher in the Water
+1 Skullclamp
+1 The One Ring
+1 Reality Shift
+1 Snap
+1 Pongify
+1 Ulamog, the Infinite Gyre
+1 Wayfarer's Bauble
+1 Solemn Simulacrum
+1 Sword of the Animist
+1 There and Back Again
+1 Swiftfoot Boots
+1 Negate
+1 Resculpt
+1 Young Pyromancer
+1 Mulldrifter
+1 Elemental Eruption
+1 Chandra's Incinerator
+1 Xorn
+1 Kediss, Emberclaw Familiar
+1 Ashling, Flame Dancer
+1 Soulbright Flamekin
+1 Eluge, the Shoreless Sea
+1 Tectonic Giant
+1 Magmakin Artillerist
+1 Flamekin Harbinger
+1 Sunspine Lynx
+1 Cavalier of Gales
+1 Champion of the Path
+1 Tideforce Elemental
+1 Tempt with Vengeance
+1 Vortex Elemental
+1 Summon: Shiva
+1 Dreamtail Heron
+1 Thryx, the Sudden Storm
+
+Lands
+1 Evolving Wilds
+1 Arena of Glory
+1 Temple of Epiphany
+8 Island
+7 Mountain

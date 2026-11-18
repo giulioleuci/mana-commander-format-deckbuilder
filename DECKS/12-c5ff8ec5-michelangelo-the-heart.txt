@@ -1,0 +1,45 @@
+Commander
+1 Michelangelo, the Heart
+
+Main
+1 Aberrant
+1 Academy Manufactor
+1 Ancient Adamantoise
+1 Beast Within
+1 Bedrock Tortoise
+1 Blossoming Tortoise
+1 Chrome Dome
+1 Commander's Sphere
+1 Conjurer's Closet
+1 Crop Rotation
+1 Evolution Sage
+1 Evolution Witness
+1 Excalibur II
+1 Fang of Shigeki
+1 Guardian Project
+1 Innkeeper's Talent
+1 Inspiring Call
+1 Kozilek, the Broken Reality
+1 Michelangelo, On the Scene
+1 Mind Stone
+1 Mossborn Hydra
+1 Nature's Claim
+1 Nettlecyst
+1 Night of the Sweets' Revenge
+1 Panharmonicon
+1 Rampaging Yao Guai
+1 Sakura-Tribe Elder
+1 Smuggler's Copter
+1 Sting, the Glinting Dagger
+1 Swiftfoot Boots
+1 Three Visits
+1 Tlincalli Hunter // Retrieve Prey
+1 Trading Post
+1 Ugin, the Spirit Dragon
+1 Watchful Radstag
+1 Wayfarer's Bauble
+
+Lands
+1 Yavimaya, Cradle of Growth
+1 Scavenger Grounds
+16 Forest

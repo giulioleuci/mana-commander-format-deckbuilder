@@ -1,0 +1,45 @@
+Commander
+1 Atraxa, Praetors' Voice
+
+Main
+1 Anguished Unmaking
+1 Approach of the Second Sun
+1 Arcane Signet
+1 Beast Within
+1 Birds of Paradise
+1 Cathars' Crusade
+1 Counterspell
+1 Craterhoof Behemoth
+1 Cyclonic Rift
+1 Divination
+1 Doom Blade
+1 Eternal Witness
+1 Farseek
+1 Generous Gift
+1 Ghave, Guru of Spores
+1 Hardened Scales
+1 Harmonize
+1 Heroic Intervention
+1 Kodama's Reach
+1 Mulldrifter
+1 Murder
+1 Path to Exile
+1 Rampant Growth
+1 Rhystic Study
+1 Skullclamp
+1 Sun Titan
+1 Swiftfoot Boots
+1 Swords to Plowshares
+1 Vampire Nighthawk
+1 Vindicate
+1 Wrath of God
+
+Lands
+1 Command Tower
+1 Reflecting Pool
+1 Evolving Wilds
+1 Terramorphic Expanse
+4 Plains
+4 Island
+3 Swamp
+3 Forest

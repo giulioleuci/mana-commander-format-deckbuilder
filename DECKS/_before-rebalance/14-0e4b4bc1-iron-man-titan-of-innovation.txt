@@ -1,0 +1,48 @@
+Commander
+1 Iron Man, Titan of Innovation
+
+Main
+1 Vexing Bauble
+1 Rhystic Study
+1 Curiosity
+1 Mystic Confluence
+1 Sublime Epiphany
+1 Pyroblast
+1 Izzet Charm
+1 Pongify
+1 Solemn Simulacrum
+1 Wayfarer's Bauble
+1 There and Back Again
+1 Sword of Hearth and Home
+1 An Offer You Can't Refuse
+1 Purphoros, God of the Forge
+1 Goblin Engineer
+1 Ashnod's Altar
+1 Sai, Master Thopterist
+1 Professional Face-Breaker
+1 Goblin Bombardment
+1 Krark-Clan Ironworks
+1 Phyrexian Altar
+1 Fling
+1 Grinding Station
+1 Cut Your Losses
+1 Eldrazi Conscription
+1 Commander's Sphere
+1 Reckless Fireweaver
+1 Karn, the Great Creator
+1 Phyrexian Metamorph
+1 Fire Diamond
+1 Auton Soldier
+1 Fabricate
+1 Foundry Inspector
+1 Generous Plunderer
+1 Lotus Petal
+1 Emry, Lurker of the Loch
+
+Lands
+1 Reliquary Tower
+1 Cavern of Souls
+1 Scalding Tarn
+1 Command Tower
+8 Island
+6 Mountain

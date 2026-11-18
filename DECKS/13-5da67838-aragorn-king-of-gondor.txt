@@ -1,0 +1,50 @@
+Commander
+1 Aragorn, King of Gondor
+
+Main
+1 Aerith Gainsborough
+1 Archaeomancer
+1 Archivist of Oghma
+1 Authority of the Consuls
+1 Balin, Loremaster
+1 Bitterthorn, Nissa's Animus
+1 Canoptek Scarab Swarm
+1 Charming Prince
+1 Cloud, Midgar Mercenary
+1 Daydream
+1 Dion, Bahamut's Dominant // Bahamut, Warden of Light
+1 Emperor Mihail II
+1 Esper Sentinel
+1 Generous Gift
+1 Hinterland Sanctifier
+1 Idol of Oblivion
+1 Inspired Skypainter // Maestro's Gift
+1 Iroh, Dragon of the West
+1 Jill, Shiva's Dominant // Shiva, Warden of Ice
+1 Mangara, the Diplomat
+1 Narset of the Ancient Way
+1 Negate
+1 Reality Shift
+1 Reaver Titan
+1 Salvation Colossus
+1 Smothering Tithe
+1 Staff of Domination
+1 Stroke of Midnight
+1 Swiftfoot Boots
+1 Sword of the Animist
+1 Swords to Plowshares
+1 The Council of Four
+1 Toggo, Goblin Weaponsmith
+1 Torbran, Thane of Red Fell
+1 Wayfarer's Bauble
+1 Whirler Rogue
+
+Lands
+1 Reliquary Tower
+1 Minas Tirith
+1 Sulfur Falls
+1 Deserted Beach
+1 Mystic Sanctuary
+4 Island
+2 Mountain
+7 Plains
